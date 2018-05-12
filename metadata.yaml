@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8875'
     url: http://www.gutenberg.org/2009/agents/8875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19773#Suuren-hiljaisuuden-miehi---13-Kokoelma-Blaise-Pascalin-Ralph-Waldo-Emersonin-Leo-Tolstoin-Ma_
 gutenberg_issued: '2006-11-12'
 gutenberg_type: Text
 identifiers:
