@@ -1,0 +1,30 @@
+_repo: Suuren-hiljaisuuden-miehi---13-Kokoelma-Blaise-Pascalin-Ralph-Waldo-Emersonin-Leo-Tolstoin-Ma__19773
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Karilas, Yrjö
+    alias: Karilas, Yrjo
+    birthdate: 1891
+    deathdate: 1982
+    gutenberg_agent_id: '8875'
+    url: http://www.gutenberg.org/2009/agents/8875
+description: ''
+gutenberg_issued: '2006-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19773'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Collections'
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PN'
+title: "Suuren hiljaisuuden miehiä\r\nKokoelma Blaise Pascalin, Ralph Waldo Emersonin,\
+  \ Leo Tolstoin, Maurice Maeterlinckin, Johannes Müllerin ja Hans Larssonin suomennettuja\
+  \ mietekirjoitelmia johdantoineen ja selityksineen"
+url: http://www.gutenberg.org/ebooks/19773
